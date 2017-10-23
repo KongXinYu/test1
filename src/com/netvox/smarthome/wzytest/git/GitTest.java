@@ -6,6 +6,6 @@ public class GitTest {
 	 * 测试
 	 */
     private void test() {
-        
+        int i;
     }
 }
