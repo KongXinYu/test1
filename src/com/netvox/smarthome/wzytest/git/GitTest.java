@@ -5,7 +5,7 @@ public class GitTest {
 	/*
 	 * 测试
 	 */
-    public void test() {
+    private void test() {
         
     }
 }
